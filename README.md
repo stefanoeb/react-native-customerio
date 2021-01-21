@@ -1,4 +1,6 @@
-A react-naative client for the Customer.io [REST API](https://learn.customer.io/api/).
+A react-native client for the Customer.io [REST API](https://learn.customer.io/api/).
+
+This project was initally forked from https://github.com/customerio/customerio-node
 
 ## Installation
 
